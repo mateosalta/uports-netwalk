@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=UBports NetWalk
+Comment=Remake of Netwalk
+Type=Application
+Terminal=false
+Exec=/opt/click.ubuntu.com/uports-netwalk.mateo-salta/current/ubuntu-netwalk
+Icon=ubuntu-netwalk.png
+X-Ubuntu-Touch=true

@@ -1,0 +1,15 @@
+{
+"description": "Ubports NetWalk app",
+"framework": "ubuntu-sdk-16.04",
+"architecture": "arm64",
+"hooks": {
+"uports-netwalk": {
+"apparmor": "ubuntu-netwalk.json",
+"desktop": "ubuntu-netwalk.desktop"
+}
+},
+"maintainer": "Filippo Scognamiglio <flscogna@gmail.com>",
+"name": "uports-netwalk.mateo-salta",
+"title": "Ubports Netwalk",
+"version": "1.2"
+}
