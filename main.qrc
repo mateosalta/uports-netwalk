@@ -1,0 +1,58 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+  <file>qml/UbunutNetwalk.qml</file>
+  <file>imgs/</file>
+    <file>imgs/glow_e.png</file>
+      <file>imgs/glow_es.png</file>
+        <file>imgs/glow_esw.png</file>
+<file>imgs/glow_ew.png</file>
+<file>imgs/glowing_hor.png</file>
+<file>imgs/glowing_vert.png</file>
+<file>imgs/glow_n.png</file>
+<file>imgs/glow_ne.png</file>
+  <file>imgs/glow_ns.png</file>
+  <file>imgs/glow_nesw.png</file>
+  <file>imgs/glow_new.png</file>
+  <file>imgs/glow_ns.png</file>
+  <file>imgs/glow_nsw.png</file>
+  <file>imgs/glow_nw.png</file>
+  <file>imgs/glow_s.png</file>
+  <file>imgs/glow_sw.png</file>
+  <file>imgs/glow_w.png</file>
+  <file>imgs/glow_n.png</file>
+  
+    <file>imgs/png/star.png</file>
+    <file>imgs/png/ubuntu_logo64.png</file>
+    
+      <file>imgs/svg/</file>
+      <file>imgs/svg/clock.svg</file>
+      <file>imgs/svg/downarrow.svg</file>
+      <file>imgs/svg/laptop_off.svg</file>
+      <file>imgs/svg/lapto_on.svg</file>
+      <file>imgs/svg/monitor_off.svg</file>
+      <file>imgs/svg/monitor_on.svg</file>
+      <file>imgs/svg/pause.svg</file>
+      <file>imgs/svg/rotate.svg</file>
+      <file>imgs/svg/smartphone_off.svg</file>
+      <file>imgs/svg/smartphone_on.svg</file>
+      <file>imgs/svg/ubuntu_logo.svg</file>
+      <file>imgs/svg/uparrow.svg</file>
+      <file>imgs/svg/yumi.svg</file>
+      <file>imgs/svg/yumi2.svg</file>
+      
+  <file>components/AboutPage.qml</file>
+  <file>components/Destination.qml</file>
+  <file>components/DropdownMenu.qml</file>
+  <file>components/GameCell.qml</file>
+  <file>components/GameView.qml</file>
+  <file>components/GlossyEffect.qml</file>
+  <file>components/GlowingImage.qml</file>
+  <file>components/HighScoresPage.qml</file>
+  <file>components/PinchAndFlick.qml</file>
+  <file>components/SettingsManager.qml</file>
+  <file>components/SettingsPage.qml</file>
+  <file>components/Source.qml</file>
+  <file>components/TopBar.qml</file>
+
+</qresource>
+</RCC>
